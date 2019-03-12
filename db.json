@@ -3,7 +3,7 @@
     {
       "userId": 1,
       "id": 1,
-      "img": http://www.mps.org.my/aeimages//Image/Announcements/MPS_Community_Pharmacy_logo.png,
+      "img": "http://www.mps.org.my/aeimages//Image/Announcements/MPS_Community_Pharmacy_logo.png",
       "name": "Tuyil pharmaceticals",
       "address": "No 25 Irewolede, Ilorin",
       "phoneNumber": "080xxxxxxx", 
