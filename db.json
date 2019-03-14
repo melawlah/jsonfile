@@ -3,6 +3,7 @@
     {
       "userId": 1,
       "id": 1,
+      "img": "pharmlogo2.png",
       "name": "Tuyil pharmaceticals",
       "address": "No 25 Irewolede, Ilorin",
       "phoneNumber": "080xxxxxxx", 
@@ -13,6 +14,7 @@
     {
       "userId": 1,
       "id": 2,
+        "img": "pharmlogo2.png",
       "name": "Tuyil pharmaceticals",
       "address": "No 25 Irewolede, Ilorin",
       "phoneNumber": "080xxxxxxx", 
